@@ -59,7 +59,7 @@
       </van-collapse>
       <div class="left_main_cz">服务中心</div>
       <van-collapse v-model="activeNames" class='van-collapse'>
-        <van-collapse-item name="1">
+        <van-collapse-item name="4">
           <template #title>
             <router-link to="/cart">
               <van-icon name="user-circle-o" />

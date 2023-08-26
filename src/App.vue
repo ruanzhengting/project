@@ -7,6 +7,7 @@
 }
 #app .rightContent{
   flex: 1;
+  width: 80vw;
   height: 100vh;
   background: #F7F7F7;
 }
